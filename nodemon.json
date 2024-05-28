@@ -1,0 +1,5 @@
+{
+    "watch": ["resources/js", "resources/css", "resources/sass"],
+    "ext": "js,vue,css",
+    "exec": "npm run build"
+}
